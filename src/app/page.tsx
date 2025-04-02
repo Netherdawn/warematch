@@ -8,8 +8,8 @@ const AUTH_ADDRESS = 'auth/jwt/create/';
 const LISTINGS_ADDRESS = 'listings/listings';
 
 // these should really be in a config that is in the gitIgnore
-const AUTH_EMAIL = 'tester@gmail.com';
-const AUTH_PASS = 'Tester@1234';
+const AUTH_EMAIL = '';
+const AUTH_PASS = '';
 
 /* ***** TYPES ***** */
 // if I could remember how I would reuse the constant to declare this strict type
